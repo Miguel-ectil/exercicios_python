@@ -1,4 +1,4 @@
-# Anotando a formula pois não a sei de cabeça
+# Anotando a formula, pois não a sei de cabeça
 
 # -- Converte para Celsius usando a fórmula (C = (F - 32) * 5 / 9) -->
 # -- Subtraímos 32 de Fahrenheit, multiplicamos por 5 e dividimos por 9 --!
